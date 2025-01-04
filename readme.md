@@ -1,3 +1,16 @@
+# vidly-api-node
+Created `vidly-api-node` Project
+
+# Commit message format : 
+[Course: Mastering React 16 > 8-Calling Backend Services (2h) ] [ Video: #20-Setting-Up-the-Node-Backend_mp4_2min_44sec ] - Created `vidly-api-node` Backend for `vidly` Project.
+
+# my-github Account : 
+https://github.com/avadhutFrontEnd
+
+# code is present on : 
+https://github.com/avadhutFrontEnd/vidly-api-node  --> `main` Branch
+
+
 ## Introduction
 
 This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:
