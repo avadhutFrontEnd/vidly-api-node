@@ -2,7 +2,7 @@
 Created `vidly-api-node` Project
 
 # Commit message format : 
-[Course: Mastering React 16 > 8-Calling Backend Services (2h) ] [ Video: #20-Setting-Up-the-Node-Backend_mp4_2min_44sec ] - Created `vidly-api-node` Backend for `vidly` Project.
+[Course: Mastering React 16 > 8-Calling Backend Services (2h) ] [ Video: #21-Disabling-Authentication_mp4_4min_01sec ] - In this project we added a  `configuration` setting for enabling or disabling `Authentication` : go to `config` Folder, inside `default.json` File change `"requiresAuth": false`.
 
 # my-github Account : 
 https://github.com/avadhutFrontEnd
