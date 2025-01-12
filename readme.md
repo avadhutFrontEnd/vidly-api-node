@@ -2,7 +2,7 @@
 Created `vidly-api-node` Project
 
 # Commit message format : 
-[Course: Mastering React 16 > 8-Calling Backend Services (2h) ] [ Video: #21-Disabling-Authentication_mp4_4min_01sec ] - In this project we added a  `configuration` setting for enabling or disabling `Authentication` : go to `config` Folder, inside `default.json` File change `"requiresAuth": false`.
+[Course: Mastering React 16 > 9-Authentication and Authorization(1h) ] [ Video: #9-Logging-in-the-User-upon-Registration_mp4_5min_37sec ] - in `users.js` service in the `POST` Request new Header `"access-control-expose-headers"` added.
 
 # my-github Account : 
 https://github.com/avadhutFrontEnd
